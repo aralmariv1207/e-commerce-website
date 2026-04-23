@@ -2,8 +2,8 @@
 
 ## About
 
-An e-commerce website project, found in the "Full Stack Web Development for Beginners" book by Riaz Ahmed.
+An e-commerce website development project, found in the "Full Stack Web Development for Beginners" book by Riaz Ahmed.
 
 ## Technical Highlights
 
-[IN DEVELOPMENT]
+[CURRENTLY IN DEVELOPMENT]
